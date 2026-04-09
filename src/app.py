@@ -64,7 +64,7 @@ activities = {
         "participants": ["sophia@mergington.edu", "ethan@mergington.edu"]
     },
     "Debate Team": {
-        "description": "Develop public speaking and critical thinking through debate competitions",
+        "description": "Develop public ssdsspeaking and critical thinking through debate competitions",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["noah@mergington.edu"]
