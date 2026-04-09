@@ -70,7 +70,7 @@ activities = {
         "participants": ["noah@mergington.edu"]
     },
     "Science Club": {   
-        "description": "Conduct experiments and explore scientific concepts through hands-on learning",
+        "description": "Condusdfdfdfdfct experiments and explore scientific concepts through hands-on learning",
         "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
         "max_participants": 18,
         "participants": ["ava@mergington.edu", "mia@mergington.edu"]
